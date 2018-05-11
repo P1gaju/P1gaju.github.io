@@ -5,7 +5,7 @@
 
 #制作人
 Py P1Kaju 
-<img src="https://p1gaju.github.io/P1Kaju/1.jpg" alt="Screenshot"/>
+<img src="https://www.ohyhello.com/file/project.png" alt="Screenshot"/>
 
 ### Screenshot
 
