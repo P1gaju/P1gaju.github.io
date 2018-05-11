@@ -5,7 +5,7 @@
 
 #制作人
 Py P1Kaju 
-<img src="meta\1.jpg" width="455px"; height="600px"; style="position:absolute; left:50px; top:250px; ">
+<img src="https://p1gaju.github.io/P1Kaju/1.jpg" alt="Screenshot"/>
 
 ### Screenshot
 
